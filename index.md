@@ -2,7 +2,7 @@
 layout: page
 litle: oier
 ---
-# Sobre mí
+# Sobre mí oier
 
 ¡Hola! Soy **[Tu nombre]** 👋
 
