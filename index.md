@@ -13,7 +13,7 @@ Soy **[estudiante/profesión]** y me interesa especialmente **[tus intereses]**.
 - 🎓 **Estudios:** [tus estudios]
 - 💻 **Tecnologías:** [tecnologías que conoces]
 - 🚀 **Intereses:** [tus intereses]
-- 📍 **Ubicación:** [tu ciudad]
+
 
 ## Proyectos
 
@@ -22,4 +22,4 @@ Actualmente estoy trabajando en diferentes proyectos relacionados con **[tema o 
 ## Contacto
 
 - GitHub: [tu GitHub]
-- Email: [tu email]
+
